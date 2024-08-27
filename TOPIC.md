@@ -26,6 +26,9 @@
 
 ## 제품 소개 슬라이드
 
+https://www.figma.com/design/Ma10WUCLmuSi93lAgQCqeo/2024-Hacker-Ground-Hackathon?node-id=91-6&t=DhNXKkHplf2meUSz-1
+[발표자료](./팀 퀵찬 발표자료.pdf)
+
 [decks](./decks/001.png)
 [decks](./decks/002.png)
 [decks](./decks/003.png)
@@ -33,5 +36,5 @@
 [decks](./decks/005.png)
 
 ## 제품 소개 동영상
-
+[영상](dgulab.r-e.kr)
 제품 또는 서비스를 소개하는 동영상을 YouTube와 같은 곳에 업로드하고 동영상 링크를 적어주세요.
